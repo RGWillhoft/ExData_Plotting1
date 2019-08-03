@@ -1,6 +1,7 @@
 # coursera: Exploratory Data Analysis
 # Peer-gradded Assigment: Course Project 1
 # Plot #1
+# RG Willhoft, 2019
 
 source("load_data.R")
 
